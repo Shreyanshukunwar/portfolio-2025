@@ -50,8 +50,8 @@ export const BentoGridItem = ({
   spareImg? :string
 }) => {
 
-  const leftLists = ["ReactJS", "Express", "Typescript"];
-  const rightLists = ["VueJS", "NuxtJS", "GraphQL"];
+  const leftLists = ["SQL", "Python", "Typescript"];
+  const rightLists = ["Git", "C++", "Angular"];
 
   const [copied, setCopied] = useState(false);
 
@@ -97,7 +97,7 @@ export const BentoGridItem = ({
                 {id === 6 && (
                 // add background animation , remove the p tag
                 <BackgroundGradientAnimation>
-                    <div className="absolute z-50 inset-0 flex items-center justify-center text-white font-bold px-4 pointer-events-none text-3xl text-center md:text-4xl lg:text-7xl"></div>
+                    {/* <div className="absolute z-50 inset-0 flex items-center justify-center text-white font-bold px-4 pointer-events-none text-3xl text-center md:text-4xl lg:text-7xl"></div> */}
                 </BackgroundGradientAnimation>
                 )}
             </div>
