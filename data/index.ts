@@ -103,7 +103,7 @@ export const navItems = [
     },
     {
       quote:
-        "Shreyanshu is a highly talented and passionate software engineer who quickly made a mark at Hitachi Energy through his strong coding skills, adaptability, and problem-solving abilities. His excellent communication skills, along with his ability to work effectively under pressure, made him an invaluable team member. With his strong technical skills, leadership abilities, and unwavering dedication, I am certain that he can excel in any environment.",
+        "Shreyanshu is a highly talented and passionate Software Engineer. His excellent communication skills, along with his ability to work effectively under pressure, make him an invaluable team member. With his strong technical skills, leadership abilities, and unwavering dedication, I am certain that he can excel in any environment.",
       name: "Abhishek Raj Shakya",
       title: "Principal Software Engineer | Hitachi Energy Nepal",
     },
@@ -169,13 +169,16 @@ export const navItems = [
     {
       id: 1,
       img: "./link.svg",
+      link: "https://www.linkedin.com/in/skunwar11/"
     },
     {
       id: 2,
       img: "./git.svg",
+      link: "https://github.com/Shreyanshukunwar"
     },
     {
       id: 3,
       img: "./insta.svg",
+      link: "https://www.instagram.com/skunwar11/"
     }
   ];
