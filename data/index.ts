@@ -8,7 +8,7 @@ export const navItems = [
   export const gridItems = [
     {
       id: 1,
-      title: "I prioritize client collaboration, fostering open communication ",
+      title: "I prioritize client collaborations, ensuring long-term partnerships.",
       description: "",
       className: "lg:col-span-3 md:col-span-6 md:row-span-4 lg:min-h-[60vh]",
       imgClassName: "w-full h-full",
@@ -29,7 +29,7 @@ export const navItems = [
     {
       id: 3,
       title: "My tech stack",
-      description: "I constantly try to improve",
+      description: "I continuously work on enhancing",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
       titleClassName: "justify-center",
@@ -38,7 +38,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Tech enthusiast with a passion for research and development.",
+      title: "Tech enthusiast with a passion for research and innovation.",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -135,7 +135,7 @@ export const navItems = [
       id: 1,
       title: "Software Engineer",
       company: "Hitachi Energy Nepal - Present",
-      desc: "Contributed as a key member of the Core Scrum Team, focusing on devloping core logic and enhacing existing codebase.",
+      desc: "Contributed as a key member of the Core Scrum Team, focusing on developing core logic and enhancing existing codebase.",
       className: "md:col-span-2",
       thumbnail: "./exp1.svg",
     },
@@ -143,7 +143,7 @@ export const navItems = [
       id: 2,
       title: "Computer Science Lecturer",
       company: "King's College Nepal - Present",
-      desc: "Designed and delivered a comprehensive Object-Oriented Programming curriculum in C++ for undergraduate students majoring Computer Science, and Information Technology.",
+      desc: "Designed and delivered a comprehensive Object-Oriented Programming curriculum in C++ for undergraduate students majoring in Computer Science, and Information Technology.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "./exp3.svg",
     },
