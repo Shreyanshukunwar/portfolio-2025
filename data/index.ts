@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently collaborating to build a Trade Risk and Management software.",
+      title: "Currently collaborating to build an Energy Trading and Risk Management software.",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -91,25 +91,25 @@ export const navItems = [
   export const recommendations = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Shreyanshu is a highly motivated and goal-oriented individual. From the moment he joined Hitachi Energy, his passion for programming and development was clearly visible. His technical abilities and amicable nature make him a well respected colleague and a valuable asset to the organization.",
       name: "Ramu Bhusal",
       title: "Senior Software Engineer | Hitachi Energy Nepal",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Mr. Kunwar stands out from the crowd through his professionalism. As an educator, he is patient, approachable, and deeply invested in his students' growth. His emphasis on critical thinking, problem-solving, and practical coding application had a profound and lasting impact on his students, making him highly regarded amongst them.",
       name: "Manoj Pandey",
       title: "Technical Program Lead | King's College Nepal",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Shreyanshu is a highly talented and passionate software engineer who quickly made a mark at Hitachi Energy through his strong coding skills, adaptability, and problem-solving abilities. His excellent communication skills, along with his ability to work effectively under pressure, made him an invaluable team member. With his strong technical skills, leadership abilities, and unwavering dedication, I am certain that he can excel in any environment.",
       name: "Abhishek Raj Shakya",
       title: "Principal Software Engineer | Hitachi Energy Nepal",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "Throughout his time at our company, Shreyanshu consistently demonstrated a strong work ethic, great technical skills, and a commitment to delivering high-quality results. His eagerness to learn new technologies and ability to quickly grasp novel concepts highlighted his potential early on. Shreyanshu was an integral part of the development team and made significant contributions to our project.",
       name: "Prasun Jajodia",
       title: "Founder | P.J. Solutions",
     }
