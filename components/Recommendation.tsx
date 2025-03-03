@@ -13,7 +13,7 @@ const Recommendation = () => {
         </h1>
 
         <div className='lg:pt-10 pt-5 flex flex-col items-center'>
-            <div className='h-[50vh] md:h-[30rem] rounded-md flex flex-col antialiased items-center relative overflow-hidden'>
+            <div className='h-[50vh] md:h-[20rem] sm:h-[10rem] rounded-md flex flex-col antialiased items-center relative overflow-hidden'>
                 <InfiniteMovingCards 
                     items={recommendations}
                     direction='left'
