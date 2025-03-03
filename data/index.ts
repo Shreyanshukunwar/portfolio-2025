@@ -38,7 +38,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Tech enthusiast with a passion for development.",
+      title: "Tech enthusiast with a passion for reserach and development.",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
+      title: "Currently collaborating to build a Trade Risk and Management software.",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -73,35 +73,19 @@ export const navItems = [
     {
       id: 1,
       title: "AI Powered Vehicle Tracking",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+      des: "A web-based application to find vehicles based on their number plate using ML in Python.",
       img: "./p1.svg",
       iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://github.com/Shreyanshukunwar/ai_powered_vehicle_tracking",
     },
     {
       id: 2,
       title: "Stock Market Analysis and Prediction",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      des: "A Stock Market analysis and prediction application made by using Python.",
       img: "/p2.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
-    },
-    {
-      id: 3,
-      title: "AI Image SaaS - Canva Application",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
-    },
-    {
-      id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
-    },
+      link: "https://github.com/Shreyanshukunwar/Stock-Market-Analysis-and-Prediction",
+    }
   ];
   
   export const recommendations = [
@@ -134,33 +118,15 @@ export const navItems = [
   export const companies = [
     {
       id: 1,
-      name: "cloudinary",
+      name: "Hitachi Energy",
       img: "/cloud.svg",
-      nameImg: "/cloudName.svg",
+      nameImg: "/hitachienergy.svg",
     },
     {
       id: 2,
-      name: "appwrite",
+      name: "King's College Nepal",
       img: "/app.svg",
-      nameImg: "/appName.svg",
-    },
-    {
-      id: 3,
-      name: "HOSTINGER",
-      img: "/host.svg",
-      nameImg: "/hostName.svg",
-    },
-    {
-      id: 4,
-      name: "stream",
-      img: "/s.svg",
-      nameImg: "/streamName.svg",
-    },
-    {
-      id: 5,
-      name: "docker.",
-      img: "/dock.svg",
-      nameImg: "/dockerName.svg",
+      nameImg: "/kingsCollegeNepal.svg",
     },
   ];
   
@@ -169,7 +135,7 @@ export const navItems = [
       id: 1,
       title: "Software Engineer",
       company: "Hitachi Energy Nepal - Present",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      desc: "Contributed as a key member of the Core Scrum Team, focusing on devloping core logic and enhacing existing codebase.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
@@ -177,7 +143,7 @@ export const navItems = [
       id: 2,
       title: "Computer Science Lecturer",
       company: "King's College Nepal - Present",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      desc: "Designed and delivered a comprehensive Object-Oriented Programming curriculum in C++ for undergraduate students majoring Computer Science, and Information Technology.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
@@ -185,7 +151,7 @@ export const navItems = [
       id: 3,
       title: "Junior Full-Stack Developer",
       company: 'P.J. Solutions',
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+      desc: "Contributed as a key team member in designing the software architecture for a comprehensive School Management System.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
@@ -193,7 +159,7 @@ export const navItems = [
       id: 4,
       title: "Junior Application Developer",
       company: 'TradEngine Smart Solutions',
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      desc: "Spearheaded the development effort for a network printer and its integration into the existing Point of Sale software product.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
@@ -202,14 +168,14 @@ export const navItems = [
   export const socialMedia = [
     {
       id: 1,
-      img: "/git.svg",
+      img: "/link.svg",
     },
     {
       id: 2,
-      img: "/twit.svg",
+      img: "/git.svg",
     },
     {
       id: 3,
-      img: "/link.svg",
-    },
+      img: "/insta.svg",
+    }
   ];

@@ -33,7 +33,7 @@ const Hero = () => {
                     Shreyanshu Devendra Kunwar
                 </h2>
                 <h3 className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
-                    Computer Engineering Graduate
+                    Licensed Computer Engineering
                 </h3>
 
                 <TextGenerateEffect 
