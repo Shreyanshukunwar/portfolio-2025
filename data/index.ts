@@ -38,7 +38,7 @@ export const navItems = [
     },
     {
       id: 4,
-      title: "Tech enthusiast with a passion for reserach and development.",
+      title: "Tech enthusiast with a passion for research and development.",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
@@ -83,7 +83,7 @@ export const navItems = [
       title: "Stock Market Analysis and Prediction",
       des: "A Stock Market analysis and prediction application made by using Python.",
       img: "./p2.svg",
-      iconLists: ["./python.svg", "/tf.svg", "/numpy.svg", "/excel.svg"],
+      iconLists: ["./python.svg", "./tf.svg", "./numpy.svg", "./excel.svg"],
       link: "https://github.com/Shreyanshukunwar/Stock-Market-Analysis-and-Prediction",
     }
   ];
@@ -119,13 +119,13 @@ export const navItems = [
     {
       id: 1,
       name: "Hitachi Energy",
-      img: "/cloud.svg",
+      img: "./cloud.svg",
       nameImg: "/hitachienergy.svg",
     },
     {
       id: 2,
       name: "King's College Nepal",
-      img: "/app.svg",
+      img: "./app.svg",
       nameImg: "/kingsCollegeNepal.svg",
     },
   ];
@@ -137,7 +137,7 @@ export const navItems = [
       company: "Hitachi Energy Nepal - Present",
       desc: "Contributed as a key member of the Core Scrum Team, focusing on devloping core logic and enhacing existing codebase.",
       className: "md:col-span-2",
-      thumbnail: "/exp1.svg",
+      thumbnail: "./exp1.svg",
     },
     {
       id: 2,
@@ -145,7 +145,7 @@ export const navItems = [
       company: "King's College Nepal - Present",
       desc: "Designed and delivered a comprehensive Object-Oriented Programming curriculum in C++ for undergraduate students majoring Computer Science, and Information Technology.",
       className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp3.svg",
+      thumbnail: "./exp3.svg",
     },
     {
       id: 3,
@@ -153,7 +153,7 @@ export const navItems = [
       company: 'P.J. Solutions',
       desc: "Contributed as a key team member in designing the software architecture for a comprehensive School Management System.",
       className: "md:col-span-2", // change to md:col-span-2
-      thumbnail: "/exp2.svg",
+      thumbnail: "./exp2.svg",
     },
     {
       id: 4,
@@ -161,21 +161,21 @@ export const navItems = [
       company: 'TradEngine Smart Solutions',
       desc: "Spearheaded the development effort for a network printer and its integration into the existing Point of Sale software product.",
       className: "md:col-span-2",
-      thumbnail: "/exp4.svg",
+      thumbnail: "./exp4.svg",
     },
   ];
   
   export const socialMedia = [
     {
       id: 1,
-      img: "/link.svg",
+      img: "./link.svg",
     },
     {
       id: 2,
-      img: "/git.svg",
+      img: "./git.svg",
     },
     {
       id: 3,
-      img: "/insta.svg",
+      img: "./insta.svg",
     }
   ];
