@@ -75,15 +75,15 @@ export const navItems = [
       title: "AI Powered Vehicle Tracking",
       des: "A web-based application to find vehicles based on their number plate using ML in Python.",
       img: "./p1.svg",
-      iconLists: ["./re.svg", "./tail.svg", "./ts.svg", "./three.svg", "./fm.svg"],
+      iconLists: ["./python.svg", "./django.svg", "./js.svg", "./sql.svg", "./html.svg", "./css.svg"],
       link: "https://github.com/Shreyanshukunwar/ai_powered_vehicle_tracking",
     },
     {
       id: 2,
       title: "Stock Market Analysis and Prediction",
       des: "A Stock Market analysis and prediction application made by using Python.",
-      img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+      img: "./p2.svg",
+      iconLists: ["./python.svg", "/tf.svg", "/numpy.svg", "/excel.svg"],
       link: "https://github.com/Shreyanshukunwar/Stock-Market-Analysis-and-Prediction",
     }
   ];
